@@ -8,7 +8,7 @@ import React from 'react';
 //   );
 // }
 export default function SkillCircle({language, borderColor, bgColor, textColor}) {
-  const conbinedClassName=`border-2 rounded-xl ${borderColor} ${bgColor} w-24 flex justify-center`
+  const conbinedClassName=`border-4 rounded-xl ${borderColor} ${bgColor} w-24 flex justify-center`
   return (
     <div className={conbinedClassName}>
       <p>{language}</p>

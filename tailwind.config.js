@@ -24,7 +24,9 @@ module.exports = {
     fontFamily: {
       body: [
         "Goudy Bookletter 1911"
-      ]
+      ],
+      georgia: ['Georgia'],
+      // ringo : [ "ui-serif", "Georgia", "Cambria", "Times New Roman", "Times", "serif"]
     },
   },
   plugins: [],
