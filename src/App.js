@@ -94,8 +94,8 @@ function App() {
             <p>2003&emsp;Born in Aichi, Japan.</p>
             <p>2021&emsp;Enroll at Kwansei Gakuin University(関西学院大学)</p>
             <p>2023.8&emsp;DMM Group intern</p>
-            <p>2023.9&emsp;Sansan Intern </p>
-            <p>2023.10&emsp;JBA(日本ビジネスアート) intern</p>
+            <p>2023.9&emsp;Sansan intern </p>
+            <p>2023.10&emsp;日本ビジネスアート intern</p>
           </div>
           <div className='space-y-4 mt-16'>
             <h2 className='text-3xl underline'>Award</h2>
