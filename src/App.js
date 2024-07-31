@@ -19,7 +19,7 @@ function App() {
     <div>
       <Particles className="absolute top-0 left-0 w-full h-full z-[-1]" />
       <div className="w-96 md:w-[600px] mx-auto font-bold">
-        <div className="flex flex-row mt-10">
+        <div className="flex flex-row mt-10 flex-wrap">
           <img src={profile} className='w-40 mr-10 ml-5'/>
           <h1 className="text-6xl font-body flex items-center font-georgia">
             Taisei Isobe 
@@ -96,6 +96,7 @@ function App() {
             <p>2023.8&emsp;DMM Group intern</p>
             <p>2023.9&emsp;Sansan intern </p>
             <p>2023.10&emsp;日本ビジネスアート intern</p>
+            <p>2024.04&emsp;metaism intern</p>
           </div>
           <div className='space-y-4 mt-16'>
             <h2 className='text-3xl underline'>Award</h2>
